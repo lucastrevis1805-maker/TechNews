@@ -1,0 +1,56 @@
+body {
+    background-color: #778899;
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    margin-bottom: 2px;
+}
+
+h2 {
+    color: #65cbed;
+}
+
+footer {
+    color: #b0c4de;
+}
+
+#cabeçalho-principal {
+    text-align: center;
+    background-color: #000000;
+    color: #f0ffff;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.card-noticia {
+    border: 2px solid #000000;
+    border-radius: 6px;
+    background-color: #49737e;
+    margin-bottom: 6px;
+    padding: 4px;
+}
+
+.botao {
+    border: none;
+    background-color: #f0ffff;
+    color: #000000;
+}
+
+.aviso {
+    font-weight: bolder;
+    color: #dc143c;
+    background-color: #000000;
+    border-radius: 10px;
+    border: #50789f;
+    display: inline;
+}
+
+.destaque {
+    border: 2px solid #05526b;
+    border-radius: 6px;
+    background-color: #49b0c9;
+    margin-bottom: 6px;
+    padding: 4px;
+}
