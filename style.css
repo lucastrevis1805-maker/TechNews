@@ -36,6 +36,7 @@ footer {
     border: none;
     background-color: #f0ffff;
     color: #000000;
+    cursor: pointer;
 }
 
 .aviso {
